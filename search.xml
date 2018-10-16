@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
+    <title><![CDATA[Hello您好]]></title>
     <url>%2F2018%2F10%2F16%2FHello%E6%82%A8%E5%A5%BD%2F</url>
-    <content type="text"><![CDATA[title: Hello您好date: 2018-10-16 08:07:59tags: hello firstcategories:第一次-写的文章 MyFirst page]]></content>
+    <content type="text"><![CDATA[MyFirst page]]></content>
+      <categories>
+        <category>-第一次 -写的文章</category>
+      </categories>
+      <tags>
+        <tag>-hello -first</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
